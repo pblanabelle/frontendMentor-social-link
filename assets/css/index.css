@@ -60,12 +60,12 @@ h1 {
     margin: 10px auto;
 }
 
-h4,
+h3,
 p {
     margin-bottom: 30px;
 }
 
-h4 {
+h3 {
     color: var(--Green);
 }
 
