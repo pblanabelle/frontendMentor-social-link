@@ -47,7 +47,7 @@ main {
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    margin: 0 auto 15px auto;
+    margin: 0 auto 25px auto;
     display: block;
 }
 
@@ -56,16 +56,16 @@ main {
     margin-bottom: 20px;
 }
 
-h1 {
+h2 {
     margin: 15px auto 10px auto;
 }
 
-h2,
+h3,
 p {
     margin-bottom: 30px;
 }
 
-h2 {
+h3 {
     color: var(--Green);
 }
 
